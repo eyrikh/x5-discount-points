@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = ru.x5.points.config.TestContainersSpringContextCustomizerFactory
